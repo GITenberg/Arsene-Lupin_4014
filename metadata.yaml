@@ -1,5 +1,5 @@
 _repo: Arsene-Lupin_4014
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Jepson, Edgar
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '1357'
     url: http://www.gutenberg.org/2009/agents/1357
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Jepson
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leblanc, Maurice
@@ -20,6 +23,8 @@ description: Arsene Lupin is a gentleman thief, and this first book from the pen
   Maurice Leblanc introduces us to this wonderful character's first adventure. Written
   many years ago, this exciting crime romp is still fantastic fun today, and has been
   specially formatted for e-reading devices by Andrews UK.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4014#Arsene-Lupin
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
